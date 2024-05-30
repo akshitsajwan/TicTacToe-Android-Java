@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tic-tac-toe</string>
+    <string name="app_title">Tic-Tac-Toe</string>
+    <string name="blank">Blank</string>
+    <string name="play_again">Play Again</string>
+    Play Again
+    <string name="empty_game_board_cell" translatable="false">Empty game board cell</string>
+</resources>
